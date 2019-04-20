@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Feb 07 16:14:09 2019
+\t (00:00:03)         Host=GUAN-PC User=GUAN Pid=7060 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged tf_52_83_92_123_30
+\d (00:00:03) Design opened: F:/qf01smcu/Library/flash/tf_52_83_92_123_30.dra
+\t (00:00:03) Grids are drawn 4096.0, 4096.0 apart for enhanced viewing.
+\i (00:00:03) trapsize 12
+\i (00:00:04) trapsize 11
+\i (00:00:04) trapsize 11
+\i (00:00:04) generaledit 
+\i (00:00:05) open 
+\i (00:00:18) fillin "menu_cancel"
+\i (00:00:18) generaledit 
+\i (00:00:19) new 
+\i (00:00:30) newdrawfillin "123.brd" "Board"
+\t (00:00:30)     Journal end - Thu Feb 07 16:14:36 2019

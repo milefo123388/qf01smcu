@@ -1,0 +1,146 @@
+(ExpressProject "quadscope"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\quadscope.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MS5611
+      (FullPartName "MS5611.Normal")
+      (LibraryName "G:\QF01SMCU\LIBRARY\SYMBOL\MCU.OLB")
+      (DeviceIndex "0"))
+    (ANT_PCB
+      (FullPartName "ANT_PCB.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Cap_Non_Polar
+      (FullPartName "Cap_Non_Polar.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Inductance
+      (FullPartName "Inductance.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Bead
+      (FullPartName "Bead.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PINHEADER_4PIN
+      (FullPartName "PINHEADER_4PIN.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PINHEADER_3PIN
+      (FullPartName "PINHEADER_3PIN.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PINHEADER_2PIN
+      (FullPartName "PINHEADER_2PIN.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MICROUSB_5PIN
+      (FullPartName "MICROUSB_5PIN.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (2PIN
+      (FullPartName "2PIN.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SGM6603
+      (FullPartName "SGM6603.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\POWER.OLB")
+      (DeviceIndex "0"))
+    (RT9013
+      (FullPartName "RT9013.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\POWER.OLB")
+      (DeviceIndex "0"))
+    (LTC4054
+      (FullPartName "LTC4054.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\POWER.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (N-MOSFET
+      (FullPartName "N-MOSFET.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (16MHz_OSC
+      (FullPartName "16MHz_OSC.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\MCU.OLB")
+      (DeviceIndex "0"))
+    (STM32F103C
+      (FullPartName "STM32F103C.Normal")
+      (LibraryName "G:\LIBRARY\SYMBOL\MCU.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "G:\qf01smcu\Library\Symbol")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\quadscope.dsn")
+      (Path "Design Resources" ".\quadscope.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 453"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1004 78 550")
+        (Scroll "0 0")
+        (Zoom "55")
+        (Occurrence "/"))
+      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCH1_MENU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1030 104 576")
+        (Scroll "0 100")
+        (Zoom "78")
+        (Occurrence "/"))
+      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCH2_MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1312 104 435")
+        (Scroll "0 357")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCH5_POWER")))
+  (MPSSessionName "Guan"))

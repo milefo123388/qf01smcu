@@ -1,0 +1,30 @@
+\t (00:00:05) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Feb 07 16:11:40 2019
+\t (00:00:05)         Host=GUAN-PC User=GUAN Pid=7056 CPUs=4
+\t (00:00:05) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged tf_52_83_92_123_30
+\d (00:00:05) Design opened: F:/qf01smcu/Library/flash/tf_52_83_92_123_30.dra
+\t (00:00:06) Grids are drawn 4096.0, 4096.0 apart for enhanced viewing.
+\i (00:00:06) trapsize 12
+\i (00:00:06) trapsize 11
+\i (00:00:06) trapsize 11
+\i (00:00:06) generaledit 
+\i (00:00:07) new 
+\i (00:00:19) newdrawfillin "menu_cancel"
+\i (00:00:19) generaledit 
+\i (00:00:20) new 
+\i (00:00:21) newdrawfillin "menu_cancel"
+\i (00:00:21) generaledit 
+\i (00:00:21) open 
+\i (00:00:26) fillin "F:/qf01smcu/Library/footprint/nrf24l01ant.dra"
+\i (00:00:26) cd "F:/qf01smcu/Library/footprint"
+\t (00:00:26) Opening existing design...
+\t (00:00:26) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:00:26) trapsize 168
+\i (00:00:26) trapsize 172
+\i (00:00:26) trapsize 168
+\i (00:00:26) trapsize 172
+\t (00:00:27)     Journal end - Thu Feb 07 16:12:01 2019

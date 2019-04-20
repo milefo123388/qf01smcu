@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : header_2pin.dra                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Jan 06 17:45:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Jan 06 17:45:23 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'G:/qf01smcu/Library/footprint/header_2pin.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  G:/qf01smcu/Library/flash/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence_spb_17.2-2016/share/local/pcb/symbols 
+           c:/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  G:/qf01smcu/Library/padstack/ 
+           G:/qf01smcu/Library/padstack/pth/ 
+           G:/qf01smcu/Library/padstack/smd/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           c:/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'C77_37'  pad stack refresh starting.
+
+     'C77_37'  pad stack refreshed successfully.
+     
+'S77_37'  pad stack refresh starting.
+
+     'S77_37'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
