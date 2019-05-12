@@ -8,8 +8,28 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Board_sim_option "VHDL_flow"))
-  (Folder "Outputs")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile "G:\GITHUB\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.csv")
+    (IREFViewOutput "0"))
+  (Folder "Outputs"
+    (File ".\quadscope.csv"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (MS5611
@@ -106,41 +126,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\quadscope.dsn")
-      (Path "Design Resources" ".\quadscope.dsn" "SCHEMATIC1"))
+      (Path "Design Resources" ".\quadscope.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\quadscope.dsn" "Design Cache")
+      (Path "Outputs")
+      (Select "Design Resources" ".\quadscope.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 453"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1004 78 550")
-        (Scroll "0 0")
-        (Zoom "55")
-        (Occurrence "/"))
-      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "SCH1_MENU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1030 104 576")
-        (Scroll "0 100")
-        (Zoom "78")
-        (Occurrence "/"))
-      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "SCH2_MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1312 104 435")
-        (Scroll "0 357")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "G:\QF01SMCU\SCH\QUADSCOPE\QUADSCOPE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "SCH5_POWER")))
+      (Tab 0)))
   (MPSSessionName "Guan"))

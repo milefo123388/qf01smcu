@@ -16,21 +16,12 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\discrete.olb")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\connector.olb"))
+      (Path "Design Resources" "Library" ".\connector.olb")
+      (Select "Design Resources" ".\discrete.olb" "Bead"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 453"))
-      (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 931 125 616")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1607 914")
-        (Zoom "525"))
-      (Path "G:\LIBRARY\SYMBOL\DISCRETE.OLB")
-      (Package "ANT_PCB"))))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 453"))
+      (Tab 0)))
+  (MPSSessionName "Guan"))

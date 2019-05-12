@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : L3D16.dra                                     )
-(    Software Version : 17.2P019                                      )
-(    Date/Time        : Sat Jan 05 21:36:42 2019                      )
+(    Drawing          : l0805.dra                                     )
+(    Software Version : 17.2S048                                      )
+(    Date/Time        : Sun May 12 16:41:02 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = G:/qf01smcu/Library/footprint
-    Name      = l3d16.psm
+    Directory = G:/github/qf01smcu/Library/footprint
+    Name      = l0805.psm
     User      = Guan
     Machine   = DESKTOP-LLSJBEC
 
