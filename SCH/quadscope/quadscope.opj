@@ -127,7 +127,6 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\quadscope.dsn")
       (Path "Design Resources" ".\quadscope.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\quadscope.dsn" "Design Cache")
       (Path "Outputs")
       (Select "Design Resources" ".\quadscope.dsn"))
     (HierarchyView)
